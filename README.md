@@ -1,9 +1,13 @@
-# DataMining
-数据挖掘
-经典算法
-论文：算法分析
-实践：项目开发
-KDD
-数据预处理
-数据分析
+# Data Mining Project Practice
+# 数据挖掘项目实战
+### Task 01 
+###### 使用金融数据，预测贷款用户是否逾期
+### Task 02
 
+### Task 03
+
+### Task 04
+
+### Task 05
+
+### Task 06
